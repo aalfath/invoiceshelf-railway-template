@@ -1,3 +1,5 @@
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/invoiceshelf-1?utm_medium=integration&utm_source=button&utm_campaign=invoiceshelf)
+
 # InvoiceShelf on Railway
 
 A Railway template for [InvoiceShelf](https://github.com/InvoiceShelf/InvoiceShelf), the open-source invoicing app for freelancers and small businesses: invoices, estimates, recurring invoices, payments, expenses and a customer portal.
