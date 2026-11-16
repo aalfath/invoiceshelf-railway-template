@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased
+
+- README: Deploy on Railway button for the published template (`invoiceshelf-1`). No change to the image or the app.
+
 ## 2.4.7 (2026-11-16)
 
 First release of this template.
