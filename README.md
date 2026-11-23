@@ -4,7 +4,7 @@
 
 A Railway template for [InvoiceShelf](https://github.com/InvoiceShelf/InvoiceShelf), the open-source invoicing app for freelancers and small businesses: invoices, estimates, recurring invoices, payments, expenses and a customer portal.
 
-- **Version:** InvoiceShelf 2.4.7, from the official image `invoiceshelf/invoiceshelf:2.4.7`, pinned by digest in the [`Dockerfile`](Dockerfile).
+- **Version:** InvoiceShelf 2.4.8, from the official image `invoiceshelf/invoiceshelf:2.4.8`, pinned by digest in the [`Dockerfile`](Dockerfile).
 - **Services:** `InvoiceShelf` (built from this repo, public) and Railway's `Postgres`.
 - **Storage:** a volume on `/var/www/html/storage` keeps uploads, company logos, PDF templates and logs. Business data lives in Postgres.
 
