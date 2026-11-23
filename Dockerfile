@@ -1,7 +1,7 @@
 # InvoiceShelf for Railway.
 # The official image, pinned by version and digest. To update, change both,
 # add a CHANGELOG.md entry and test on a scratch project before merging.
-FROM invoiceshelf/invoiceshelf:2.4.7@sha256:599dc6aa9d7303c9ae0d099397817c7f6002cd6f7af099bc90511d5eae4e9cd2
+FROM invoiceshelf/invoiceshelf:2.4.8@sha256:12b0c62ba1e67b586c9888fcee39385c1989f13f1347afb98aa0b5215025852c
 
 # The wrapper entrypoint starts as root only to give the Railway volume on
 # /var/www/html/storage to www-data, then runs the official entrypoint as
